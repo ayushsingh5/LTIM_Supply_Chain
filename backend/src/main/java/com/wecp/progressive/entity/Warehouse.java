@@ -18,6 +18,8 @@ public class Warehouse {
         this.capacity = capacity;
     }
 
+    
+
     public int getWarehouse_id() {
         return warehouse_id;
     }

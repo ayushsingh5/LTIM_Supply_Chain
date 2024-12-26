@@ -11,6 +11,8 @@ public class Product {
     public Product() {
     }
 
+
+    
     public Product(int product_id, int warehouse_id, String product_name, String product_description, int quantity,
             Double price) {
         this.product_id = product_id;

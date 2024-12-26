@@ -11,6 +11,8 @@ public class Supplier {
     public Supplier() {
     }
 
+    
+
     public Supplier(int supplier_id, String supplier_name, String contact_email, String contact_phone, String address,
             String role) {
         this.supplier_id = supplier_id;
